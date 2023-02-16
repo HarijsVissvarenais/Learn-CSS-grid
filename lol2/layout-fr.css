@@ -1,0 +1,22 @@
+.container{
+    background-color: #40fef4;
+    width: 100vw;
+    height:100vh;
+    
+    display: grid;
+
+    grid-template-columns: 1fr 4fr 2fr;
+
+}
+body{
+    margin: 0;
+}
+.item-1{
+    background-color: #3700ff;
+}
+.item-2{
+    background-color: #fffb00;
+}
+.item-3{
+    background-color: #ff4800;
+}
